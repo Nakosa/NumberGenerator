@@ -1,0 +1,10 @@
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.Properties.Resources.resources
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.GenerateResource.cache
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.pdb
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csprojAssemblyReference.cache
+C:\Users\ZH\Desktop\й\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.Main.resources
